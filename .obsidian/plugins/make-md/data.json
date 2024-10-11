@@ -13,7 +13,7 @@
   "imageThumbnails": false,
   "spacesMDBInHidden": true,
   "cacheIndex": true,
-  "inlineStylerColors": true,
+  "inlineStylerColors": false,
   "editorFlow": true,
   "internalLinkClickFlow": true,
   "internalLinkSticker": true,
