@@ -1,4 +1,5 @@
 [
   "make-md",
-  "markdown-prettifier"
+  "markdown-prettifier",
+  "templater-obsidian",
 ]
