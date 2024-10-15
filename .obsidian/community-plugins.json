@@ -32,5 +32,8 @@
   "obsidian-latex-suite",
   "obsidian-leaflet-plugin",
   "multi-column-markdown",
-  "quickadd"
+  "quickadd",
+  "editing-toolbar",
+  "folder-note-plugin",
+  "google-calendar"
 ]
