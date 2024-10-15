@@ -35,5 +35,6 @@
   "quickadd",
   "editing-toolbar",
   "google-calendar",
-  "folder-note-plugin"
+  "folder-note-plugin",
+  "file-explorer-note-count"
 ]
